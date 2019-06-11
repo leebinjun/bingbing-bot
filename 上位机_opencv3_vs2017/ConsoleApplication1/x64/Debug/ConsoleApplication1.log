@@ -1,0 +1,15 @@
+﻿  serialport.cpp
+  源.cpp
+c:\users\86151\desktop\bingbing-bot\上位机_opencv3_vs2017\consoleapplication1\源.cpp(133): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\users\86151\desktop\bingbing-bot\上位机_opencv3_vs2017\consoleapplication1\源.cpp(134): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\users\86151\desktop\bingbing-bot\上位机_opencv3_vs2017\consoleapplication1\源.cpp(178): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\86151\desktop\bingbing-bot\上位机_opencv3_vs2017\consoleapplication1\源.cpp(180): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\86151\desktop\bingbing-bot\上位机_opencv3_vs2017\consoleapplication1\源.cpp(193): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\86151\desktop\bingbing-bot\上位机_opencv3_vs2017\consoleapplication1\源.cpp(198): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\86151\desktop\bingbing-bot\上位机_opencv3_vs2017\consoleapplication1\源.cpp(304): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\86151\desktop\bingbing-bot\上位机_opencv3_vs2017\consoleapplication1\源.cpp(311): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\86151\desktop\bingbing-bot\上位机_opencv3_vs2017\consoleapplication1\源.cpp(356): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\86151\desktop\bingbing-bot\上位机_opencv3_vs2017\consoleapplication1\源.cpp(370): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\86151\desktop\bingbing-bot\上位机_opencv3_vs2017\consoleapplication1\源.cpp(433): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+  正在生成代码...
+  ConsoleApplication1.vcxproj -> C:\Users\86151\Desktop\bingbing-bot\上位机_opencv3_vs2017\x64\Debug\ConsoleApplication1.exe
